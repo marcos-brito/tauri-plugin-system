@@ -1,0 +1,1 @@
+This is the source code for a blog post I wrote about plugins architectures with Tauri. You can read it [here](https://marcos-brito.github.io/nnago/tauri-and-plugins). The two examples of plugins I used can be found at [./plugins](./plugins)
