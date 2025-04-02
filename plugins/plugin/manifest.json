@@ -1,0 +1,5 @@
+{
+  "name": "Plugin that runs directly on the browser",
+  "author": "Marcos Brito",
+  "repo": "https://github.com/marcos-brito/tauri-plugin-system"
+}

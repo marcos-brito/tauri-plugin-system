@@ -1,0 +1,5 @@
+{
+  "name": "Plugin that uses the VM context",
+  "author": "Marcos Brito",
+  "repo": "https://github.com/marcos-brito/tauri-plugin-system"
+}
